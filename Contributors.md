@@ -582,6 +582,7 @@ Berliana
 - [Goobaii](https://github.com/Goobaii)
 - [KeBug](https://github.com/kebug)
 - [Yasaman Adl](https://github.com/YasamanAdl94)
+- Pankaj Jyani
 - [Paul Lockhart](https://github.com/PaulLockhart)
 - J.G.
   -Nikhil Verma
